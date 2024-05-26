@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+## Projenin Dili
+
+Bu proje, Flutter kullanılarak Dart dilinde geliştirilmiştir.
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
