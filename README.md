@@ -60,3 +60,5 @@ class LoginBloc extends Bloc<LoginEvent, LoginState> {
     }
   }
 }
+
+Bu örnek, Bloc yapısını kullanarak kullanıcı adı ve şifre ile giriş işlemlerini nasıl yönettiğimi gösteriyor. Bloc'un sunduğu avantajlardan yararlanarak daha temiz, test edilebilir ve yönetilebilir bir kod yapısı oluşturuyorum.
